@@ -1,6 +1,6 @@
 # Daily_Progress_Report
 
-7th January : SDLC, SDLC Models, Testing Methodoligies, Types of Black Box and White Box Testing, Functional / Non-Functional testing.                    Test Case Contents, Bug Life Cycle & Jira Defect Workflow, Attended Gurvinder Sir's Session on Agile.
+**7th January** : SDLC, SDLC Models, Testing Methodoligies, Types of Black Box and White Box Testing, Functional / Non-Functional testing.                    Test Case Contents, Bug Life Cycle & Jira Defect Workflow, Attended Gurvinder Sir's Session on Agile.
 
 8th January : Manual Testing Videos, Agile and its functioning, Test Metrics.
 
