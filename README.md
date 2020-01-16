@@ -1,5 +1,6 @@
 # Daily_Progress_Report
 
+
 ***7th January*** : SDLC, SDLC Models, Testing Methodoligies, Types of Black Box and White Box Testing, Functional / Non-Functional testing.                    Test Case Contents, Bug Life Cycle & Jira Defect Workflow, Attended Gurvinder Sir's Session on Agile.
 
 ***8th January*** : Manual Testing Videos, Agile and its functioning, Test Metrics.
@@ -15,4 +16,3 @@
 ***15th January*** : Prepared PPT on Static Testing, TypeScript - Interfaces, Annotations for Anonymous functions, Void and Never, Arrays in TS,                Why typed arrays, Multiple types in Arrays, When to use typed Arrays. Attended PPT on Use Case & Testing Artifacts by                      Malkeet Sir.
 
 ***16th January*** : Attended PPT on Test Techniques by Pallabi Ma'am, Gave PPT on Static Testing, Attended PPT on Backend Training Session By                  Lovepreet Sir.
-*
