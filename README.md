@@ -16,3 +16,5 @@
 ***15th January*** : Prepared PPT on Static Testing, TypeScript - Interfaces, Annotations for Anonymous functions, Void and Never, Arrays in TS,                Why typed arrays, Multiple types in Arrays, When to use typed Arrays. Attended PPT on Use Case & Testing Artifacts by                      Malkeet Sir.
 
 ***16th January*** : Attended PPT on Test Techniques by Pallabi Ma'am, Gave PPT on Static Testing, Attended PPT on Backend Training Session By                  Lovepreet Sir.
+
+***17th January*** : Continued TypeScript, Had a quick overview of Blockchain and Ethereum, Attended a session on Blockchain and Ethereum by Neeraj and Ishan Sir.
