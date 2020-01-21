@@ -19,4 +19,4 @@
 
 ***17th January*** : Continued TypeScript, Had a quick overview of Blockchain and Ethereum, Attended a session on Blockchain and Ethereum by Neeraj and Ishan Sir.
 
-***20th January*** : Read about the topics like Inspect Elements, Burp Sweet, Temper Monkey, Form Filler Extension. Read about the concepts of NodeJs like Promises, Callbacks. Continued with TypeScript Course, Attended workshop on private blockchain corda by Utkarsh Sir.
+***20th January*** : Read about the topics like (Respresentational state tranfer) Restfull api, POSTMAN Api, Inspect Elements, Burp Sweet, Temper Monkey, Form Filler Extension. Read about the concepts of NodeJs like Promises, Callbacks. Continued with TypeScript Course, Attended workshop on private blockchain corda by Utkarsh Sir.
