@@ -24,4 +24,6 @@
 ***21th January*** : Attended Session On QA by Mridula Ma'am, Read about the Penetration Testing, What is Penetration Testing, Causes Of Vulnerabilities, Why Penetration Testing? , 
 What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More Tools: Nmap, Metasploit ,Penetration Testing Types, Pen Testing Techniques.
 
+***23rd January*** : 
+
 ***22nd January*** : How to use Postman, It's several methods for implementing Postman, Fetching API's using those methods, Read about few topics related to testing like; Non Functional Req., Enduracne Testing, Scalability Testing, Baseline Testing, Portability Testing. Difference Between Smoke and Sanity Testing, About Load testing, Attended session on React by Gursharan Ma'am.
