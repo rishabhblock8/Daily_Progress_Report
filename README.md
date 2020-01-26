@@ -27,3 +27,5 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***22nd January*** : How to use Postman, It's several methods for implementing Postman, Fetching API's using those methods, Read about few topics related to testing like; Non Functional Req., Enduracne Testing, Scalability Testing, Baseline Testing, Portability Testing. Difference Between Smoke and Sanity Testing, About Load testing, Attended session on React by Gursharan Ma'am.
 
 ***23rd January*** : Read about REST API methods, Studied about Speech To Text Google API, Attended Session On DevOps by Abhijeet Sir.
+
+***24th January*** : Read about ISTQB, Started with Risk Management, Wrote test cases of Ravi's Catalog App, Wrote test cases of Pallabi's assigned task, Attended session by Subina. 
