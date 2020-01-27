@@ -29,3 +29,5 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***23rd January*** : Read about REST API methods, Studied about Speech To Text Google API, Attended Session On DevOps by Abhijeet Sir.
 
 ***24th January*** : Read about ISTQB, Started with Risk Management, Wrote test cases of Ravi's Catalog App, Wrote test cases of Pallabi's assigned task, Attended session by Subina. 
+
+***27th January*** : Started Fundamentals of Testing from ISTQB, Made Test Scenarios along with Test Case Steps for Ravi's Book Catalogue Application.
