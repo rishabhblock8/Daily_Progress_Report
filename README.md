@@ -31,3 +31,5 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***24th January*** : Read about ISTQB, Started with Risk Management, Wrote test cases of Ravi's Catalog App, Wrote test cases of Pallabi's assigned task, Attended session by Subina. 
 
 ***27th January*** : Started Fundamentals of Testing from ISTQB, Made Test Scenarios along with Test Case Steps for Ravi's Book Catalogue Application.
+
+***28th January*** : Review meeting on test scenarios of Book Catalogue App, Varna assigns task for which we have to write requirements after that we had a meeting on Requirement gathering.
