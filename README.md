@@ -33,3 +33,9 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***27th January*** : Started Fundamentals of Testing from ISTQB, Made Test Scenarios along with Test Case Steps for Ravi's Book Catalogue Application.
 
 ***28th January*** : Review meeting on test scenarios of Book Catalogue App, Varna assigns task for which we have to write requirements after that we had a meeting on Requirement gathering.
+
+***29th January*** : Completed Fundamentals of Testing, Had a meeting where we discuss about Use Cases, how to make them, what's the use of it? and all.
+
+***30th January*** : Had a review meeting regarding Pallabi's App where we again discuss test cases and scenarios, Started making Use Cases for Vocabulary App, Attended session on Smart Contracts by Navdeep.
+
+***31st January*** : Completed with Use cases for Vocab app, Refined test cases and scenarios for pallabi's app, completed non functional requirements testing activity.
