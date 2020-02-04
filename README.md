@@ -39,3 +39,7 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***30th January*** : Had a review meeting regarding Pallabi's App where we again discuss test cases and scenarios, Started making Use Cases for Vocabulary App, Attended session on Smart Contracts by Navdeep.
 
 ***31st January*** : Completed with Use cases for Vocab app, Refined test cases and scenarios for pallabi's app, completed non functional requirements testing activity.
+
+***3rd February*** : Assignment by Ankita of Standards followed in IT companies, Made test scenarios for Vocab test app.
+
+***4th February*** : Made test cases and test data for Vocab test app, Discuss the project topics on blockchain and smart contracts.
