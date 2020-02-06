@@ -43,3 +43,5 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***3rd February*** : Assignment by Ankita of Standards followed in IT companies, Made test scenarios for Vocab test app.
 
 ***4th February*** : Made test cases and test data for Vocab test app, Discuss the project topics on blockchain and smart contracts.
+
+***5th February*** : Completed it complainces activity, discuss about project, meeting regarding that, write description regarding that too, started reading about selenium documentation.
