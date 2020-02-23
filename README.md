@@ -45,3 +45,25 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***4th February*** : Made test cases and test data for Vocab test app, Discuss the project topics on blockchain and smart contracts.
 
 ***5th February*** : Completed it complainces activity, discuss about project, meeting regarding that, write description regarding that too, started reading about selenium documentation.
+
+***6th February*** : discussion about test cases for vocabulary test application, requirements for LMS app by Gurinder Sir, had doubts in the requirements.
+
+***7th February*** : API testing using Postman, environments, workspaces, global/environment variables, API testing with CLI (newman), wrote basic test case script and test steps s for testing.
+
+***10th February***: completed postman documentation, how to manage workspaces, how to get data from csv and data files, data driven testing, started with gitlab.
+
+***11th February***: implementing gitlab yml file, writing stages in it, Run pipeline on GitLab using git bash
+
+***12th February***: Discussed the doubts in requirements of LMS app, started craeting wire frames for LMS app using draw.io
+
+***13th February***: Discussion with client regarding changes in the wireframes, made ppt for project.
+
+***14th February***: multiple meetings with client regarding LMS app, also discussed project with ravi.
+
+***17th February***: had a meeting for LMS app with the client, improved wireframes for LMS app.
+
+***18th February***: Created test scenarios and cases for first demo of LMS app, test LMS application, pre-demo of LMS app with client.
+
+***19th February***: refined test cases and scenarios for lms app, meeting with client and investors for lms app, lms retrospective.
+
+***20th February***: meeting with client regarding use case requirements, discussed the flow for next demo, and also go through the user stories provided by client, also had some questions in it.
