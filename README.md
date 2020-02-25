@@ -67,3 +67,5 @@ What Should Be Tested? , Recommended Penetration Testing Tool : Acunetix, More T
 ***19th February***: refined test cases and scenarios for lms app, meeting with client and investors for lms app, lms retrospective.
 
 ***20th February***: meeting with client regarding use case requirements, discussed the flow for next demo, and also go through the user stories provided by client, also had some questions in it.
+
+***24th February***: prepare for my ppt, present ppt to all, then we had meeting with our client for the lms requirements and follow up questions, then we break the team regarding those requirements and the agendas to achieve.
